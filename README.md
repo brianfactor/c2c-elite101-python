@@ -24,4 +24,4 @@ Example change
 
 ## Contributors
 
-1.
+1. Brian Morgan
