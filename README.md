@@ -25,3 +25,5 @@ Example change
 ## Contributors
 
 1. Brian Morgan
+
+1. Jay Mehta
