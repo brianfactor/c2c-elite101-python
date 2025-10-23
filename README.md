@@ -25,3 +25,4 @@ Example change
 ## Contributors
 
 1. Brian Morgan
+2. Testing Person
