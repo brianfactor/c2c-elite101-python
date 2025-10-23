@@ -24,7 +24,8 @@ Example change
 
 ## Contributors
 
-1. Hiro Morgan
-2. Brian Morgan
-3. Jay Mehta
-4. Jonah Beaman
+1. Brian Morgan
+2. Testing Person
+3. Hiro Morgan
+4. Jay Mehta
+5. Jonah Beaman
