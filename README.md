@@ -24,6 +24,6 @@ Example change
 
 ## Contributors
 
-1. Brian Morgan
-
-1.Jay Mehta
+1. Hiro Morgan
+2. Brian Morgan
+3.Jay Mehta
